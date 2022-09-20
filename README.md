@@ -6,7 +6,7 @@ A converter to convert an ESP32 flash file into a pocuter app.
 -id       [App ID]
 -image    [image filename]
 -version  [X.Y.Z]
-- meta    [metadata filename]
+-meta     [metadata filename]
 -help
 
 #### Meta file example (ini file):
